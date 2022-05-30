@@ -6,7 +6,7 @@ function Register() {
   
   return (
     <> 
-    <h2 style={{ color: 'green' }}> Welcome to Blog User Registration</h2>     
+    <h2 style={{ color: 'green' }}> Welcome to shelter dog home Registration</h2>     
      
       <RegistrationForm />
     </>
